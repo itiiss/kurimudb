@@ -1,0 +1,1 @@
+import{o as n,c as s,i as a}from"./app.f73deccd.js";const p='{"title":"持久化","description":"","frontmatter":{},"headers":[{"level":2,"title":"使用驱动","slug":"使用驱动"}],"relativePath":"persistence.md","lastUpdated":1619072313899}',e={},t=a('',7);e.render=function(a,p,e,o,r,c){return n(),s("div",null,[t])};export default e;export{p as __pageData};

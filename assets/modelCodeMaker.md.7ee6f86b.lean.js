@@ -1,0 +1,1 @@
+import{o as t,c as e,b as r}from"./app.f73deccd.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"modelCodeMaker.md","lastUpdated":1619075751050}',d={},o=r("p",null,"🚧 施工中，敬请期待",-1);d.render=function(r,a,d,l,n,p){return t(),e("div",null,[o])};export default d;export{a as __pageData};
